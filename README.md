@@ -4,7 +4,11 @@ Groovy Codes for VMUG UserCon Demo
 
 ## [v1.0] - 15-03-2021
 
-- Always use the master branch.
+- Alwars use the main branch
+- Individual code repos are:
+  - LinuxWebApp: https://github.com/Udayendu/vmugdemo01
+  - WindowsWebApp: https://github.com/Udayendu/vmugdemo02.git
+
 
 ### Pipeline available for:
 
