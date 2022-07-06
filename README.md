@@ -2,18 +2,20 @@
 
 Groovy Codes for VMUG UserCon Demo
 
-## [v1.0] - 15-03-2021
+## [v2.0] - 06-07-2022 (dd-mm-yyyy)
 
 - Alwars use the main branch
 - Individual code repos are:
   - LinuxWebApp: https://github.com/Udayendu/vmugdemo01
-  - WindowsWebApp: https://github.com/Udayendu/vmugdemo02.git
+  - WindowsWebApp: https://github.com/Udayendu/vmugdemo02
+  - Kubernetes Deployment: https://github.com/Udayendu/vmugdemo03
 
 
 ### Pipeline available for:
 
 - Windows WebApp deployment & configuration
 - Linux WebApp deployment & configuration
+- Kubernetes Cluster deployment
 
 ## Design Diagram
 
